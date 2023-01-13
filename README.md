@@ -1,2 +1,2 @@
 # com.castsoftware.uc.salesforce
-SalesForce Analyzer
+SalesForce APEX/VisualForce extension for CAST Imaging
